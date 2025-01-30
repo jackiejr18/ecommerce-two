@@ -1,6 +1,7 @@
 import React, { useContext, useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
 import { ShopContext } from '../context/ShopContext';
+import { assets } from '../assets/assets';
 
 const Product = () => {
 
@@ -28,10 +29,10 @@ const Product = () => {
 
   return productData ? (
     <div className='border-t-2 pt-10 transition-opacity ease-in duration-500 opacity-100'>
-      {/* Product Data */}
+      {/*  ------------------ Product Data --------------------- */}
       <div className='flex gap-12 sm:gap-12 flex-col sm:flex-row'>
 
-        {/* Product Images */}
+        {/* ------------------ Product Images --------------------- */}
         <div className='flex-1 flex flex-col-reverse gap-3 sm:flex-row'>
           <div className='flex sm:flex-col overflow-x-auto sm:overflow-y-scroll justify-between sm:justify-normal sm:w-[18.7%] w-full'>
             {
@@ -42,6 +43,19 @@ const Product = () => {
           </div>
           <div className='w-full sm:w-[80%]'>
             <img className='w-full h-auto' src={image}/>
+          </div>
+        </div>
+
+        {/* -------------- Product Info ---------------- */}
+        <div className='flex-1'>
+          <h1 className='font-medium text-2xl mt-2'>{productData.name}</h1>
+          <div className='flex items-center gap-1 mt-2'>
+            <img src={assets.star_icon} className='w-3.5' alt="" />
+            <img src={assets.star_icon} className='w-3.5' alt="" />
+            <img src={assets.star_icon} className='w-3.5' alt="" />
+            <img src={assets.star_icon} className='w-3.5' alt="" />
+            <img src={assets.star_dull_icon} className='w-3.5' alt="" />
+            <p className='pl-2'>(122)</p>
           </div>
         </div>
       </div>

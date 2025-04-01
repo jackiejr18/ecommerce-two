@@ -314,7 +314,7 @@ export const products = [
     },
     {
         _id: "aaaas",
-        name: "Boy Round Neck Pure Cotton T-shirt",
+        name: "Electabuzz Evolutionary Bookmark",
         description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
         price: 160,
         image: [p_img19],
@@ -326,7 +326,7 @@ export const products = [
     },
     {
         _id: "aaaat",
-        name: "Women Palazzo Pants with Waist Belt",
+        name: "Magmar Evolutionary Bookmark",
         description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
         price: 190,
         image: [p_img20],
@@ -338,7 +338,7 @@ export const products = [
     },
     {
         _id: "aaaau",
-        name: "Women Zip-Front Relaxed Fit Jacket",
+        name: "Horsea Evolutionary Bookmark",
         description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
         price: 170,
         image: [p_img21],
@@ -350,7 +350,7 @@ export const products = [
     },
     {
         _id: "aaaav",
-        name: "Women Palazzo Pants with Waist Belt",
+        name: "Houndoor Evolutionary Bookmark",
         description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
         price: 200,
         image: [p_img22],
@@ -362,7 +362,7 @@ export const products = [
     },
     {
         _id: "aaaaw",
-        name: "Boy Round Neck Pure Cotton T-shirt",
+        name: "Lucario Evolutionary Bookmark",
         description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
         price: 180,
         image: [p_img23],
@@ -374,7 +374,7 @@ export const products = [
     },
     {
         _id: "aaaax",
-        name: "Boy Round Neck Pure Cotton T-shirt",
+        name: "Litwick Evolutionary Bookmark",
         description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
         price: 210,
         image: [p_img24],
@@ -386,7 +386,7 @@ export const products = [
     },
     {
         _id: "aaaay",
-        name: "Girls Round Neck Cotton Top",
+        name: "Larvitar Evolutionary Bookmark",
         description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
         price: 190,
         image: [p_img25],
@@ -398,7 +398,7 @@ export const products = [
     },
     {
         _id: "aaaaz",
-        name: "Women Zip-Front Relaxed Fit Jacket",
+        name: "Nidoran Evolutionary Bookmark",
         description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
         price: 220,
         image: [p_img26],
@@ -410,7 +410,7 @@ export const products = [
     },
     {
         _id: "aaaba",
-        name: "Girls Round Neck Cotton Top",
+        name: "Nidorina Evolutionary Bookmark",
         description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
         price: 200,
         image: [p_img27],
@@ -422,7 +422,7 @@ export const products = [
     },
     {
         _id: "aaabb",
-        name: "Men Slim Fit Relaxed Denim Jacket",
+        name: "Togepi Evolutionary Bookmark",
         description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
         price: 230,
         image: [p_img28],
@@ -434,7 +434,7 @@ export const products = [
     },
     {
         _id: "aaabc",
-        name: "Women Round Neck Cotton Top",
+        name: "Oddish Evolutionary Bookmark",
         description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
         price: 210,
         image: [p_img29],
@@ -446,7 +446,7 @@ export const products = [
     },
     {
         _id: "aaabd",
-        name: "Girls Round Neck Cotton Top",
+        name: "Zubat Evolutionary Bookmark",
         description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
         price: 240,
         image: [p_img30],
@@ -458,7 +458,7 @@ export const products = [
     },
     {
         _id: "aaabe",
-        name: "Men Round Neck Pure Cotton T-shirt",
+        name: "Ghastly Evolutionary Bookmark",
         description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
         price: 220,
         image: [p_img31],

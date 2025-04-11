@@ -99,7 +99,9 @@ export const products = [
     {
         _id: "aaaaa",
         name: "Bulbasaur Evolutionary Bookmark",
-        description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+        description: "Bulbasaur – The Hustler with the Backpack" ,
+        description2: "Ivysaur – The One That’s Levelin’ Up",
+        description3: "Venusaur – The OG Green Tank",
         price: 100,
         image: [p_img1],
         category: "Women",
@@ -111,7 +113,9 @@ export const products = [
     {
         _id: "aaaab",
         name: "Charmander Evolutionary Bookmark",
-        description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+        description: "Charmander – The Lil' Homie with the Fire Tail" ,
+        description2: "Charmeleon – The Angry Teen Phase",
+        description3: "Charizard – The Problem",
         price: 200,
         image: [p_img2_1,p_img2_2,p_img2_3,p_img2_4],
         category: "Men",
@@ -123,7 +127,9 @@ export const products = [
     {
         _id: "aaaac",
         name: "Squirtle Evolutionary Bookmark",
-        description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+        description: "Squirtle – The Water-Type Wiseguy",
+        description2: "Wartortle – The Street Lieutenant",
+        description3: "Blastoise – The Walking Armory",
         price: 220,
         image: [p_img3],
         category: "Kids",
